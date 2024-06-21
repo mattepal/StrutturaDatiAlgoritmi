@@ -1,0 +1,5 @@
+﻿  pulce.c
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\Project2\pulce.c(15,3): warning C4033: 'GuidaLaPulceRec' deve restituire un valore
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\Project2\pulce.c(24,3): warning C4033: 'GuidaLaPulceRec' deve restituire un valore
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\Project2\pulce.c(34): warning C4716: 'GuidaLaPulceRec': deve restituire un valore
+  Project2.vcxproj -> C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\x64\Debug\Project2.exe

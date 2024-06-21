@@ -1,0 +1,4 @@
+﻿  jobs.c
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\Project2\jobs.c(30,20): warning C4477: 'printf': con la stringa di formato '%ld' è necessario un argomento di tipo 'long', ma il tipo dell'argomento variadic 1 è 'size_t'
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\Project2\jobs.c(30,20): message : provare a usare '%zd' nella stringa di formato
+  Project2.vcxproj -> C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\x64\Debug\Project2.exe

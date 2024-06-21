@@ -1,0 +1,4 @@
+﻿  pancakesort.c
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\Project4\pancakesort.c(36,14): warning C4098: 'PancakeSort': la funzione 'void' restituisce un valore
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\Project4\pancakesort.c(37,34): warning C4098: 'PancakeSort': la funzione 'void' restituisce un valore
+  Project4.vcxproj -> C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\x64\Debug\Project4.exe

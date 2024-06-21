@@ -1,0 +1,5 @@
+﻿  reverse_string.c
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\Project1\reverse_string.c(7,3): warning C4033: 'ReverseStringRec' deve restituire un valore
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\Project1\reverse_string.c(10,2): warning C4033: 'ReverseStringRec' deve restituire un valore
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\Project1\reverse_string.c(11): warning C4716: 'ReverseStringRec': deve restituire un valore
+  Project1.vcxproj -> C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_13\x64\Debug\Project1.exe

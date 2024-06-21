@@ -1,0 +1,3 @@
+﻿  isprime.c
+C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\Project1\isprime.c(12): warning C4715: 'IsPrime': non tutti i percorsi di controllo restituiscono un valore
+  Project1.vcxproj -> C:\Users\antonella\OneDrive\Desktop\unimo\struct e alg\esame_16\x64\Debug\Project1.exe
